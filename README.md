@@ -7,16 +7,9 @@ Slate.js is a web framework written in JavaScript to develop modular HTML5 appli
 Current Release
 ----------------------------
 
-The branch that you are looking at is a `master` branch. It is the active development branch from which you can create a nightly builds. For stable release, checkout the branch with name `release-v<version-number>` (eg: `release-v0.1.0` or `release-v0.1.1` etc) and build it. You can also see the release note for the version in [Wiki](https://github.com/ashish-chopra/slatejs/wiki).
-
-`release-v-0.1.0` is the **vanilla hackathon 2014** release version. If you are interested to hack it from there on, then its all yours!!!
-
-Current Release
-----------------------------
-
-Current Branch: `release-v-0.1.0`
-Version: 0.1.0
-Release Notes: Coming Soon on Wiki.
+* **Current Branch:**   `release-v-0.1.0`
+* **Version:**          0.1.0
+* **Release Notes:**    Coming Soon on Wiki.
 
 Note: This is the plain vanilla Hackathon 2014 release version. In order to get more polished and secured code, download latest release.
 
